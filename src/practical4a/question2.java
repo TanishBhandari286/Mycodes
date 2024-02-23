@@ -1,4 +1,4 @@
-package practical4aAND4b;
+package practical4a;
 class Triangle {
     int side1 = 3;
     int side2 = 4;

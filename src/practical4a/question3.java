@@ -1,4 +1,4 @@
-package practical4aAND4b;
+package practical4a;
 class Area {
     // Constructor
     int length;

@@ -1,4 +1,4 @@
-package practical4aAND4b;
+package practical4a;
 class Student {
         String name;
         int roll_no;
