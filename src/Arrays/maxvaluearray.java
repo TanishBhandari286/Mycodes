@@ -9,7 +9,7 @@ public class maxvaluearray {
             System.out.println("Enter Elements Of Array");
             arr[i] = sc.nextInt();
         }
-        int mx = arr[0];
+        int mx = arr[0];//github copilot
         for (int i = 1; i < 8; i++) {
             if(arr[i]>mx){
                 mx = arr[i];

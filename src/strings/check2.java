@@ -6,6 +6,8 @@ class Printer {
 
     public void print(double num) {
         System.out.println("Printing double: " + num);
+        System.out.println(num);
+
     }
 }
 
