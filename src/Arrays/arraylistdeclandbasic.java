@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class arraylistdeclandbasic {
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>(6);//initialize
-        arr.add(0,10);
-        arr.add(1,44);
+        arr.add(0,10);//this sets the value 10 at 0th index
+        arr.add(1,44);//this sets the value 44 at 1st index
         arr.add(2,4);
         arr.add(3,74);
         arr.add(4,94);

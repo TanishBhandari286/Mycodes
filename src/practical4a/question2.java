@@ -15,8 +15,6 @@ class Triangle {
         System.out.println("Perimeter: " + perimeter);
     }
 }
-
-
 public class question2 {
     public static void main(String[] args) {
         Triangle triangle = new Triangle();
